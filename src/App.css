@@ -1,0 +1,46 @@
+#root {
+  max-width: 1280px;
+  font-family: 'Montserrat',  sans-serif;
+}
+
+.rit {
+  display: flex;
+  flex-direction: column;
+  width: 100vw;
+}
+
+.secondDiv {
+  background-color: #000000;
+  color: #FAFAFA;
+  text-align: center;
+}
+
+.section_content {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.results_content {
+  margin: 0 auto;
+  padding: 0 2rem 2rem 2rem;
+  display: flex
+}
+
+.div_nr1 {
+  margin: 20px 20px 15px 30px;
+  border: 2px solid slateblue;
+  padding: 20px 20px 15px 30px;
+  background: darkorange;
+  box-sizing: content-box;
+  width: 200px;
+}
+
+.div_nr2 {
+  margin: 20px 20px 15px 30px;
+  border: 2px solid slateblue;
+  padding: 20px 20px 15px 30px;
+  background: darkorange;
+  box-sizing: border-box;
+  width: 200px;
+}
